@@ -1,0 +1,21 @@
+body { 
+    color: rgb(118, 0, 252);
+    font: arial;
+}
+div {
+    background-color: aquamarine;
+    border: dashed 10px dodgerblue;
+}
+
+.second-div {
+    background-color: palegreen
+}
+
+#second-li {
+    font-size: 30px;
+}
+img {
+    width: 300px;
+    border-radius: 100px;
+}
+
